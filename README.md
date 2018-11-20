@@ -1,5 +1,9 @@
 # The Marionette Collective
 
+> This fork is only updated for security issues and bugs with its use in [Puppet Enterprise](https://puppet.com/products/puppet-enterprise).
+> Please file bugs with [PE support](https://support.puppet.com).
+> For security issues, see [Puppet's product security policy](https://puppet.com/docs/vulnerability-submission-process).
+
 The Marionette Collective aka. mcollective is a framework to build server orchestration or parallel job execution systems.
 
 For documentation please see https://docs.puppet.com/mcollective
